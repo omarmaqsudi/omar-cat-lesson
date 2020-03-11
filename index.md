@@ -1,1 +1,1 @@
-<h1>Omar's Website<h1/>
+<h1 align="center">Omar's Website<h1/>
