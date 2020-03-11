@@ -1,1 +1,0 @@
-# omar-cat-lesson
