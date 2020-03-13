@@ -2,7 +2,7 @@
   <body>
 <h1 align="center">Big Show<h1/>
 <!--
-<img src="catboss.webp" class="center">
+<div style="="width:image width px; font-size:80%; text-align:center;"><img src="catboss.webp" class="center" style="padding-bottom:0.5em;" />when your mother dresses you for eid at 5 in the morning</div>
     <body style="backround-color:red;">
   .center {
   display: block;
